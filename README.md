@@ -48,7 +48,7 @@ Note: The application supports both newer (≥1.0.0) and older versions of the O
 
 Run the Streamlit application:
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## How to Use
